@@ -12,3 +12,7 @@ This is a repo with files already in it
 ```python
 print("hello world!")
 ```
+
+```javascript
+console.log("Hello, World!");
+```
